@@ -1,0 +1,25 @@
+{
+  "name": "bolierplate",
+  "version": "1.0.0",
+  "description": "Projeto base para as próximas aplicações em NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoporto27/nodejs-first-bolierplate.git"
+  },
+  "keywords": [
+    "SENAI",
+    "NodeJS",
+    "Dev",
+    "Back-end"
+  ],
+  "author": "João Vitor Porto Sales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaoporto27/nodejs-first-bolierplate/issues"
+  },
+  "homepage": "https://github.com/joaoporto27/nodejs-first-bolierplate#readme"
+}
